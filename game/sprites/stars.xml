@@ -1,0 +1,6 @@
+<textureatlas xmlns="http://www.w3.org/1999/xhtml" imagepath="spritesheet.png">
+    <subtexture name="3stars" x="0" y="0" width="186" height="65"></subtexture>
+    <subtexture name="0stars" x="0" y="66" width="186" height="65"></subtexture>
+    <subtexture name="1stars" x="0" y="132" width="186" height="65"></subtexture>
+    <subtexture name="2stars" x="0" y="198" width="186" height="65"></subtexture>
+</textureatlas>

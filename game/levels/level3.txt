@@ -1,0 +1,35 @@
+[level]
+levelNum = 1
+allowedCommands = 0, 1
+tileset = ground.png
+boardWidth = 10
+boardHeight = 10
+board = s.........
+             |..|||||||
+             ||..||||||
+             |||..|||||
+             ||||..||||
+             |||||..|||
+             ||||||..||
+             |||||||..|
+             ||||||||.x
+
+[.]
+name = floor
+type = 0
+model = 0
+
+[|]
+name = wall
+type = 1
+model = 1
+
+[x]
+name = destination
+type = 3
+model = 3
+
+[s]
+name = start
+type = 2
+model = 2
